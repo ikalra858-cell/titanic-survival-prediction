@@ -169,7 +169,7 @@ Saved model:
 ```text
 models/
 └── titanic_logistic_regression_pipeline.joblib
-```text
+```
 
 ---
 
